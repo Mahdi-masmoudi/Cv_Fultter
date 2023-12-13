@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "933698274541",
+    "firebase_url": "https://voyage-ab60f-default-rtdb.firebaseio.com",
+    "project_id": "voyage-ab60f",
+    "storage_bucket": "voyage-ab60f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933698274541:android:c578791efb867828e178e4",
+        "android_client_info": {
+          "package_name": "com.example.voyage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9pyhTz5S5pq3JJioNHNqPV01bWedqPlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
